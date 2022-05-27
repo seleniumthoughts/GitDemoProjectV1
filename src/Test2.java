@@ -4,8 +4,8 @@ public class Test2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String name="vijay";
-		if(name=="vijay")
+		String name="vinay";
+		if(name=="vinay")
 		{
 			System.out.println(name);
 		}
