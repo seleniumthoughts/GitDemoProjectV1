@@ -8,6 +8,7 @@ public class Test34 {
 		if(name=="vinay" || name=="mahesh")
 		{
 			System.out.println(name);
+			System.out.println(name);
 		}
 		else
 		{
