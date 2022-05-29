@@ -5,7 +5,7 @@ public class Test34 {
 		// TODO Auto-generated method stub
 
 		String name="vinay";
-		if(name=="vinay" || name=="mahesh")
+		if(name=="vinay" || name=="mahesh" || name=="anil")
 		{
 			System.out.println(name);
 			System.out.println(name);
